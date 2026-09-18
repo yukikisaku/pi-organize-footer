@@ -1,5 +1,5 @@
 {
-  "name": "@yukikisaku/pi-footer-organizer",
+  "name": "@yukikisaku/pi-organize-footer",
   "version": "0.1.0",
   "description": "Organize Pi's footer and toggle extension status items.",
   "type": "module",
@@ -7,11 +7,11 @@
   "author": "yuki-kisaku",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yukikisaku/pi-footer-organizer.git"
+    "url": "git+https://github.com/yukikisaku/pi-organize-footer.git"
   },
-  "homepage": "https://github.com/yukikisaku/pi-footer-organizer#readme",
+  "homepage": "https://github.com/yukikisaku/pi-organize-footer#readme",
   "bugs": {
-    "url": "https://github.com/yukikisaku/pi-footer-organizer/issues"
+    "url": "https://github.com/yukikisaku/pi-organize-footer/issues"
   },
   "keywords": [
     "pi-package",

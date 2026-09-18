@@ -43,7 +43,7 @@ function loadConfig(): FooterOrganizerConfig {
 		if ((error as NodeJS.ErrnoException).code === "ENOENT") {
 			return { hiddenKeys: [] };
 		}
-		console.error("pi-footer-organizer: failed to load config", error);
+		console.error("pi-organize-footer: failed to load config", error);
 		return { hiddenKeys: [] };
 	}
 }

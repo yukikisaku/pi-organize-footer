@@ -1,4 +1,4 @@
-# pi-footer-organizer
+# pi-organize-footer
 
 ## Overview
 
@@ -11,7 +11,7 @@ Requires Pi TUI mode for the interactive picker. It replaces Pi's footer while l
 ## Installation
 
 ```sh
-pi install npm:@yukikisaku/pi-footer-organizer
+pi install npm:@yukikisaku/pi-organize-footer
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ The hidden-key list is persisted in `~/.pi/agent/footer-organizer.json`.
 ## Uninstallation
 
 ```sh
-pi uninstall npm:@yukikisaku/pi-footer-organizer
+pi uninstall npm:@yukikisaku/pi-organize-footer
 ```
 
 Remove any package-specific configuration described above if you no longer need it.
